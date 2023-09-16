@@ -7,12 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-## About Talha Kilic 
-
-[Talha Kilic](https://www.mccormick.northwestern.edu/computer-science/people/phd-students/a-k.html), is a second-year AI/ML Ph.D. student in Computer Science at [Northwestern University](https://www.northwestern.edu) 
-
-Talha is conducting research on deep generative models supported materials informatics advised by [Alok Choudhary](http://www.eecs.northwestern.edu/~choudhar/), [Ankit Agrawal](http://users.eecs.northwestern.edu/~ankitag/index.html), and [Wei-Keng Liao](http://users.eecs.northwestern.edu/~wkliao/). He is also a member of the research group, the Center for Ultra-Scale Computing and Information Security [(CUCIS)](http://cucis.eecs.northwestern.edu) 
+[Talha Kilic](https://www.mccormick.northwestern.edu/computer-science/people/phd-students/a-k.html), is a second-year AI/ML Ph.D. student in Computer Science at [Northwestern University](https://www.northwestern.edu).Talha is conducting research on materials informatics oriented deep generative models and advised by [Alok Choudhary](http://www.eecs.northwestern.edu/~choudhar/), [Ankit Agrawal](http://users.eecs.northwestern.edu/~ankitag/index.html), and [Wei-Keng Liao](http://users.eecs.northwestern.edu/~wkliao/). He is also a member of the research group, the Center for Ultra-Scale Computing and Information Security [(CUCIS)](http://cucis.eecs.northwestern.edu). 
 
 
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
