@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "AI/ML Research Asistant @ Northwestern University"
+  name             : "AI/ML Research Asistant"
   avatar           : "profile.jpeg"
   bio              : "Does True Randomness Exist?"
   location         : "Greater Chicago Area, IL, USA"
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "mntalhakilic"
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
