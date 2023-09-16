@@ -17,7 +17,7 @@ He completed his Master's degree in Electronics Engineering from [Istanbul Techn
 
 Currently, he aims to bridge the gap between AI and material science by proposing AI-based models to accelerate the creation of new microstructures while minimizing time and cost and prediction algorithms that foresees faults by means of cameras and sensors. 
 
-Recent Updates:
+Recent Updates
 ======
 
   
