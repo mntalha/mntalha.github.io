@@ -6,19 +6,17 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
 <!-- {% include base_path %} -->
-
 Education
 ---------------
-* **Doctor of Philosophy in Computer Science, Northwestern University, USA, 2022-Present**
+* ***Doctor of Philosophy in Computer Science, Northwestern University, USA, 2022-Present***
     * Under the track of Artificial Intelligence and Machine Learning
-* **Master of Science in Electronics Engineering, Istanbul Technical University, Turkey, 2022**
+* ***Master of Science in Electronics Engineering, Istanbul Technical University, Turkey, 2022***
     * Thesis on “Classification of Chest Chest X-Rays by Divergence-Based Convolutional Neural Network”
     * GPA : 3.69 / 4 – High Honor Student
     * Honor Student ( 1 semester ), High Honor Student (1 semester )
     * Member of the AI Club 
-* **Bachelor of Electrical and Electronics Engineering, Selcuk University, Turkey, 2018**
+* ***Bachelor of Electrical and Electronics Engineering, Selcuk University, Turkey, 2018***
     * GPA : 3.49 / 4 – Honor Student
     * Honor Student ( 1 semester ), High Honor Student (5 semesters )
     * Member of the IEEE Club
