@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -10,7 +10,7 @@ redirect_from:
 <!-- {% include base_path %} -->
 
 Education
-======
+---------------
 * **Doctor of Philosophy in Computer Science, Northwestern University, USA, 2022-Present**
     * Under the track of Artificial Intelligence and Machine Learning
 * **Master of Science in Electronics Engineering, Istanbul Technical University, Turkey, 2022**
@@ -28,7 +28,7 @@ Education
     * Photography Contest about Winter Theme 1st place in 2015.
     * Volunteer in projects that processes the adaptation of immigrants
 Work experience
-======
+---------------	
 * **2022 September – Present: Research Assistant**
   * Northwestern University, IL, USA
   * Supervisor: Professor Alok Choudhary
