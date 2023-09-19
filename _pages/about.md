@@ -15,7 +15,7 @@ Prior to joining the Ph.D. program, he spent two years working in the petroleum 
  
 He completed his Master's degree in Electronics Engineering from [Istanbul Technical University](https://www.itu.edu.tr/en), where he conducted research on "Classification of Chest X-Rays using Divergence-Based Convolutional Neural Network" as part of the [master thesis](http://mntalha.github.io/files/master_thesis.pdf).
 
-Currently, he aims to bridge the gap between AI and material science by proposing AI-based models to accelerate the creation of new microstructures while minimizing time and cost and prediction algorithms that foresees faults by means of cameras and sensors. 
+Currently, he aims to bridge the gap between AI and materials science by proposing AI-based models to accelerate the creation of new microstructures while minimizing time and cost and prediction algorithms that foresees faults by means of cameras and sensors. 
 
 Recent Updates
 ======

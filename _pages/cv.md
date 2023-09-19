@@ -11,17 +11,31 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Bachelor of Electrical and Electronics Engineering, SELCUK UNIVERSITY, TURKEY, 2018
+    * GPA : 3.49 / 4 – Honor Student
+    * Honor Student ( 1 semester ), High Honor Student (5 semesters )
+    * Member of the IEEE Club
+    * Member of Science and Technology Club
+    * Student Assistant ( 2016-2018 )
+    * Line Follower Robot Competition 1st place in 2016.
+    * Photography Contest about Winter Theme 1st place in 2015.
+    * Volunteer in projects that processes the adaptation of immigrants
+
+* Master of Science in Electronics Engineering, ISTANBUL TECHNICAL UNIVERSITY, TURKEY, 2022
+    * Thesis on “Classification of Chest Chest X-Rays by Divergence-Based Convolutional Neural Network”
+    * GPA : 3.69 / 4 – High Honor Student
+    * Honor Student ( 1 semester ), High Honor Student (1 semester )
+    * Member of the AI Club 
+
+* Doctor of Philosophy in Computer Science, NORTHWESTERN UNIVERSITY, USA, 2022-Present
+    * Under the track of Artificial Intelligence and Machine Learning
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
+* 2022 September – Present: Research Assistant
+  * Northwestern University
+  * Supervisor: Professor Alok Choudhary
+  
 * Fall 2015: Research Assistant
   * Github University
   * Duties included: Merging pull requests
