@@ -8,7 +8,7 @@ redirect_from:
 ---
 <!-- {% include base_path %} -->
 Education
----------------
+---------------	
 * ***Doctor of Philosophy in Computer Science, Northwestern University, USA, 2022-Present***
     * Under the track of Artificial Intelligence and Machine Learning
 * ***Master of Science in Electronics Engineering, Istanbul Technical University, Turkey, 2022***
@@ -26,17 +26,17 @@ Education
     * Photography Contest about Winter Theme 1st place in 2015.
     * Volunteer in projects that processes the adaptation of immigrants
 Work experience
----------------	
-* **2022 September – Present: Research Assistant**
+---------------		
+* ***2022 September – Present: Research Assistant***
   * Northwestern University, IL, USA
   * Supervisor: Professor Alok Choudhary
-* **2020 September – 2022 August: Embedded Software Engineer**
+* ***2020 September – 2022 August: Embedded Software Engineer***
   * SVS Satellite Systems Co. Istanbul, Turkey
   * Focused on Embedded System Design and code implementation for satellite industry needs with several processors and microcontrollers (Imx6 DualLite, Imx6 SoloX, LPC3250, STM32Fx, etc.)
   * Engaged in low-level language developments (communications between sensors, step motors, microcontrollers via I2C, CAN Bus, serial, SPI, RS232, RS485, TCP, and UDP by using C, C++, and Python languages) of antenna control systems for mobile broadcast vehicles
   * Lead a team to develop Low Earth orbit satellite tracker with TLE parameters for the internet service.
   * Worked on conveying electromagnetic signals taken by radar antenna to the signal processing unit as well as building a system with RTOS in microcontrollers that responds to each command from the center with almost no delay for the project of Primary Surveillance Radar supported by the General Directorate Of State Airports Authority in Turkey
-**Skills**: Python (Programming Language) · Yocto Project · Teamwork · FreeRTOS · Real-Time Operating Systems (RTOS) · Microcontrollers · C (Programming Language) · Embedded Software · Embedded C · C++ · Linux · Embedded Systems
+***Skills***: Python (Programming Language) · Yocto Project · Teamwork · FreeRTOS · Real-Time Operating Systems (RTOS) · Microcontrollers · C (Programming Language) · Embedded Software · Embedded C · C++ · Linux · Embedded Systems
 
 * **2018 September – 2020 February: R&D Software Engineer**
   * Worked on Pump Cash Register Design in Qt5 running on boards having Lubuntu OS in Petroleum Stations
