@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-***<u>About me</u>***
+***About me***
 ------
 Hello! I am [Muhammed Nur Talha Kilic](https://www.mccormick.northwestern.edu/computer-science/people/phd-students/a-k.html), a second-year AI/ML Ph.D. student in Computer Science at [Northwestern University](https://www.northwestern.edu). I have been conducting research on materials informatics oriented deep generative models advised by [Alok Choudhary](http://www.eecs.northwestern.edu/~choudhar/), [Ankit Agrawal](http://users.eecs.northwestern.edu/~ankitag/index.html), and [Wei-Keng Liao](http://users.eecs.northwestern.edu/~wkliao/), and I am also a member of the research group, the Center for Ultra-Scale Computing and Information Security[(CUCIS)](http://cucis.eecs.northwestern.edu). 
 
@@ -17,11 +17,11 @@ I completed his Master's degree in Electronics Engineering from [Istanbul Techni
 
 Currently, My focus is to bridge the gap between AI and materials science by proposing AI-based models to accelerate the creation of new microstructures while minimizing time and cost and prediction algorithms that foresees faults by means of cameras and sensors. 
 
-***<u>Recent Updates</u>***
+***Recent Updates***
 ------
 
 
-***<u>Fellowships and Academic Awards</u>***
+***Fellowships and Academic Awards***
 ------ 
 <!-- A data-driven personal website
 ======

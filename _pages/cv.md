@@ -8,8 +8,8 @@ redirect_from:
 ---
 <!-- {% include base_path %} -->
 
-***<u>Education</u>***
-======
+***Education***
+------
 
 *  ***Doctor of Philosophy in Computer Science, Northwestern University, USA, Fall 2022 - Present*** 
     * Under the track of Artificial Intelligence and Machine Learning
@@ -28,8 +28,8 @@ redirect_from:
     * Photography Contest about Winter Theme 1st place in 2015.
     * Volunteer in projects that processes the adaptation of immigrants
 
-***<u>Work Experience</u>***
-======
+***Work Experience***
+------
 
 * ***2022 September – Present: Research Assistan, Northwestern University, IL, USA***
   * Supervisor: Professor Alok Choudhary
