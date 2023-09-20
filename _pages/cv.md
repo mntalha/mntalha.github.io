@@ -11,7 +11,7 @@ redirect_from:
 ***<u>Education</u>***
 ======
 
-*  ***Doctor of Philosophy in Computer Science, Northwestern University, USA, 2022-Present*** 
+*  ***Doctor of Philosophy in Computer Science, Northwestern University, USA, Fall 2022 - Present*** 
     * Under the track of Artificial Intelligence and Machine Learning
 * ***Master of Science in Electronics Engineering, Istanbul Technical University, Turkey, 2022***
     * Thesis on “Classification of Chest Chest X-Rays by Divergence-Based Convolutional Neural Network”
@@ -40,13 +40,13 @@ redirect_from:
   * Worked on conveying electromagnetic signals taken by radar antenna to the signal processing unit as well as building a system with RTOS in microcontrollers that responds to each command from the center with almost no delay for the project of Primary Surveillance Radar supported by the General Directorate Of State Airports Authority in Turkey
 
   ***Skills***: Python (Programming Language) · Yocto Project · Teamwork · FreeRTOS · Real-Time Operating Systems (RTOS) · Microcontrollers · C (Programming Language) · Embedded Software · Embedded C · C++ · Linux · Embedded Systems
-* ***2018 September – 2020 February: R&D Software Engineer,Mepsan Petroleum Co. Konya, Turkey***
+* ***2018 September – 2020 February: R&D Software Engineer, Mepsan Petroleum Co. Konya, Turkey***
   * Worked on Pump Cash Register Design in Qt5 running on boards having Lubuntu OS in Petroleum Stations
   * Responsible for drawing the PCB and code implementation of Manifold device, which is automatic tank transition system according to the message received by central system via the RS-485 line.
   * In addition, participated in the meetings of groups having many ongoing projects in the company and gave feedback as an outside eye.
 
   ***Skills*** C (Programming Language) · Embedded Software · Embedded C · C++ · Embedded Systems
-* ***2017 September – 2018 June: Senior Year Project Student,TUBITAK Bilgem, Turkey***
+* ***2017 September – 2018 June: Senior Year Project Student, TUBITAK Bilgem, Turkey***
   * Worked with a group of senior students from different departments to build one of the critical devices in fiber optic communications which is Optical Time Domain Reflectometer (OTDR)
   * In charged of measuring and drawing signals in the time domain reflected from broken or damaged fiber lines in the Matlab program.
 
