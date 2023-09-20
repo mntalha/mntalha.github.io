@@ -11,7 +11,7 @@ redirect_from:
 ***Education***
 ======
 
-* <u>***Doctor of Philosophy in Computer Science, Northwestern University, USA, 2022-Present***</u> 
+*  ***<u>Doctor of Philosophy in Computer Science, Northwestern University, USA, 2022-Present</u>*** 
     * Under the track of Artificial Intelligence and Machine Learning
 * ***Master of Science in Electronics Engineering, Istanbul Technical University, Turkey, 2022***
     * Thesis on “Classification of Chest Chest X-Rays by Divergence-Based Convolutional Neural Network”
@@ -35,7 +35,7 @@ redirect_from:
   * Northwestern University, IL, USA
   * Supervisor: Professor Alok Choudhary
 * ***2020 September – 2022 August: Embedded Software Engineer***
-  * SVS Satellite Systems Co. Istanbul, Turkey
+  * ***SVS Satellite Systems Co. Istanbul, Turkey***
   * Focused on Embedded System Design and code implementation for satellite industry needs with several processors and microcontrollers (Imx6 DualLite, Imx6 SoloX, LPC3250, STM32Fx, etc.)
   * Engaged in low-level language developments (communications between sensors, step motors, microcontrollers via I2C, CAN Bus, serial, SPI, RS232, RS485, TCP, and UDP by using C, C++, and Python languages) of antenna control systems for mobile broadcast vehicles
   * Lead a team to develop Low Earth orbit satellite tracker with TLE parameters for the internet service.
