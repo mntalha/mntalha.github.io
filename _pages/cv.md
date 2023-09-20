@@ -7,9 +7,11 @@ redirect_from:
   - /resume
 ---
 <!-- {% include base_path %} -->
+
 ***Education***
 ======
-* ***Doctor of Philosophy in Computer Science, Northwestern University, USA, 2022-Present***
+
+* <u>***Doctor of Philosophy in Computer Science, Northwestern University, USA, 2022-Present***</u> 
     * Under the track of Artificial Intelligence and Machine Learning
 * ***Master of Science in Electronics Engineering, Istanbul Technical University, Turkey, 2022***
     * Thesis on “Classification of Chest Chest X-Rays by Divergence-Based Convolutional Neural Network”
@@ -28,6 +30,7 @@ redirect_from:
 
 ***Work experience***
 ======
+
 * ***2022 September – Present: Research Assistant***
   * Northwestern University, IL, USA
   * Supervisor: Professor Alok Choudhary
@@ -38,7 +41,7 @@ redirect_from:
   * Lead a team to develop Low Earth orbit satellite tracker with TLE parameters for the internet service.
   * Worked on conveying electromagnetic signals taken by radar antenna to the signal processing unit as well as building a system with RTOS in microcontrollers that responds to each command from the center with almost no delay for the project of Primary Surveillance Radar supported by the General Directorate Of State Airports Authority in Turkey
 
-***Skills***: Python (Programming Language) · Yocto Project · Teamwork · FreeRTOS · Real-Time Operating Systems (RTOS) · Microcontrollers · C (Programming Language) · Embedded Software · Embedded C · C++ · Linux · Embedded Systems
+  ***Skills***: Python (Programming Language) · Yocto Project · Teamwork · FreeRTOS · Real-Time Operating Systems (RTOS) · Microcontrollers · C (Programming Language) · Embedded Software · Embedded C · C++ · Linux · Embedded Systems
 * ***2018 September – 2020 February: R&D Software Engineer***
   * ***Mepsan Petroleum Co. Konya, Turkey***
   * Worked on Pump Cash Register Design in Qt5 running on boards having Lubuntu OS in Petroleum Stations
@@ -51,24 +54,24 @@ redirect_from:
   * Worked with a group of senior students from different departments to build one of the critical devices in fiber optic communications which is Optical Time Domain Reflectometer (OTDR)
   * In charged of measuring and drawing signals in the time domain reflected from broken or damaged fiber lines in the Matlab program.
 
-***Skills***: Matlab · Signal Processing · Fiber Optic · Laser Sensors · MSP430x from Texas Instruments
+  ***Skills***: Matlab · Signal Processing · Fiber Optic · Laser Sensors · MSP430x from Texas Instruments
 * ***2017 July – 2017 September: R&D Intern***
   * ***Kayseri Ulasim Co. Kayseri, Turkey***
   * Developed a test device along with PCB design for the Kayseri Ulasim cycling system to prevent stealing at certain spots in the city.
   * Test device consists of LCD, Microcontrroler, RFID system, Motor Switching Mechanism.
 
-***Skills***: SPI for LCD communication · Database · RFID · PCB Design · C · TCP communication
+  ***Skills***: SPI for LCD communication · Database · RFID · PCB Design · C · TCP communication
 * ***2017 July – 2017 September: Support Intern***
   * ***Microsoft Turkey Istanbul, Turkey***
   * Responsibility of transmitting problems and urgent requests of costumers and companies from Middle East and Africa to the correct department.
 
-***Skills***: Problem Solving · Prioritizing Tasks · Team Work · Customer Relations
+  ***Skills***: Problem Solving · Prioritizing Tasks · Team Work · Customer Relations
 * ***2016 July – 2016 August: R&D Intern***
   * ***TUBITAK National Observatory Antalya, Turkey***
   * Developed serial port application that controls Telescopes Movement in Java
   * Transform the same application in Java into the wireless platforms with using Wifi Modules in order to decrease the need of serial connections.
 
-***Skills***: Java · Serial Port Communication · Wifi Modules · Socket Programming
+  ***Skills***: Java · Serial Port Communication · Wifi Modules · Socket Programming
 
 
 <!-- Skills
