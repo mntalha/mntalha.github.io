@@ -22,7 +22,7 @@ author_profile: true
 * Responsibility of Relay of Costumer (Middle East and Africa) problems to Correct Employees (***Internship Responsibility*** – 2016)
 * Voice Recognition in MATLAB (***Signal and System Course Project*** – 2016)
 
-***<u>Professional Projects History, Some Excluded Due to the NDA </u>***
+***<u>Professional Projects History, Some are Excluded Due to the NDA </u>***
 ======
 
 * Low Earth Orbit Satellite System Integration, Focusing on Ground Stations (***SVS Satellite Systems Co.Project*** – 2022)
