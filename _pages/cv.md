@@ -9,6 +9,7 @@ redirect_from:
 <!-- {% include base_path %} -->
 Education
 ---------------	
+
 * ***Doctor of Philosophy in Computer Science, Northwestern University, USA, 2022-Present***
     * Under the track of Artificial Intelligence and Machine Learning
 * ***Master of Science in Electronics Engineering, Istanbul Technical University, Turkey, 2022***
@@ -27,6 +28,7 @@ Education
     * Volunteer in projects that processes the adaptation of immigrants
 Work experience
 ---------------		
+
 * ***2022 September – Present: Research Assistant***
   * Northwestern University, IL, USA
   * Supervisor: Professor Alok Choudhary
