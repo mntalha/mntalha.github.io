@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Muhammed Nur **Talha** Kilic
+About **Talha** 
 ======
 [Talha](https://www.mccormick.northwestern.edu/computer-science/people/phd-students/a-k.html), is a second-year AI/ML Ph.D. student in Computer Science at [Northwestern University](https://www.northwestern.edu). He is conducting research on materials informatics oriented deep generative models. He is advised by [Alok Choudhary](http://www.eecs.northwestern.edu/~choudhar/), [Ankit Agrawal](http://users.eecs.northwestern.edu/~ankitag/index.html), and [Wei-Keng Liao](http://users.eecs.northwestern.edu/~wkliao/), and he is also a member of the research group, the Center for Ultra-Scale Computing and Information Security[(CUCIS)](http://cucis.eecs.northwestern.edu). 
 
