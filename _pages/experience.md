@@ -5,5 +5,5 @@ permalink: /experience/
 author_profile: true
 ---
 
-***More details  are coming soon!***
+***More details are coming soon!***
 
