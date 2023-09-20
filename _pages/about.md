@@ -7,15 +7,15 @@ redirect_from:
   - /about/
   - /about.html
 ---
-About **Talha** 
+About me
 ======
-[Talha](https://www.mccormick.northwestern.edu/computer-science/people/phd-students/a-k.html), is a second-year AI/ML Ph.D. student in Computer Science at [Northwestern University](https://www.northwestern.edu). He is conducting research on materials informatics oriented deep generative models. He is advised by [Alok Choudhary](http://www.eecs.northwestern.edu/~choudhar/), [Ankit Agrawal](http://users.eecs.northwestern.edu/~ankitag/index.html), and [Wei-Keng Liao](http://users.eecs.northwestern.edu/~wkliao/), and he is also a member of the research group, the Center for Ultra-Scale Computing and Information Security[(CUCIS)](http://cucis.eecs.northwestern.edu). 
+Hello! I am [Muhammed Nur Talha Kilic], (https://www.mccormick.northwestern.edu/computer-science/people/phd-students/a-k.html), a second-year AI/ML Ph.D. student in Computer Science at [Northwestern University](https://www.northwestern.edu). I have been conducting research on materials informatics oriented deep generative models advised by [Alok Choudhary](http://www.eecs.northwestern.edu/~choudhar/), [Ankit Agrawal](http://users.eecs.northwestern.edu/~ankitag/index.html), and [Wei-Keng Liao](http://users.eecs.northwestern.edu/~wkliao/), and I am also a member of the research group, the Center for Ultra-Scale Computing and Information Security[(CUCIS)](http://cucis.eecs.northwestern.edu). 
 
-Prior to joining the Ph.D. program, he spent two years working in the petroleum industry and nearly two years in the satellite industry as an R&D Engineer and Embedded Software Engineer. During this time, he honed my skills in microcontroller, circuit, and PCB design, as well as embedded coding and optimization, which have been invaluable in his academic pursuits.
+Prior to joining the Ph.D. program, I spent two years working in the petroleum industry and nearly two years in the satellite industry as an R&D Engineer and Embedded Software Engineer. During this time, I honed my skills in microcontroller, circuit, and PCB design, as well as embedded coding and optimization, which have been invaluable in my academic pursuits.
  
-He completed his Master's degree in Electronics Engineering from [Istanbul Technical University](https://www.itu.edu.tr/en), where he conducted research on "Classification of Chest X-Rays using Divergence-Based Convolutional Neural Network" as part of the [master thesis](http://mntalha.github.io/files/master_thesis.pdf).
+I completed his Master's degree in Electronics Engineering from [Istanbul Technical University](https://www.itu.edu.tr/en), where I conducted research on "Classification of Chest X-Rays using Divergence-Based Convolutional Neural Network" as part of the [master thesis](http://mntalha.github.io/files/master_thesis.pdf).
 
-Currently, he aims to bridge the gap between AI and materials science by proposing AI-based models to accelerate the creation of new microstructures while minimizing time and cost and prediction algorithms that foresees faults by means of cameras and sensors. 
+Currently, My focus is to bridge the gap between AI and materials science by proposing AI-based models to accelerate the creation of new microstructures while minimizing time and cost and prediction algorithms that foresees faults by means of cameras and sensors. 
 
 Recent Updates
 ======
