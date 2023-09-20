@@ -7,8 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-About me
-======
+***<u>About me</u>***
+------
 Hello! I am [Muhammed Nur Talha Kilic](https://www.mccormick.northwestern.edu/computer-science/people/phd-students/a-k.html), a second-year AI/ML Ph.D. student in Computer Science at [Northwestern University](https://www.northwestern.edu). I have been conducting research on materials informatics oriented deep generative models advised by [Alok Choudhary](http://www.eecs.northwestern.edu/~choudhar/), [Ankit Agrawal](http://users.eecs.northwestern.edu/~ankitag/index.html), and [Wei-Keng Liao](http://users.eecs.northwestern.edu/~wkliao/), and I am also a member of the research group, the Center for Ultra-Scale Computing and Information Security[(CUCIS)](http://cucis.eecs.northwestern.edu). 
 
 Prior to joining the Ph.D. program, I spent two years working in the petroleum industry and nearly two years in the satellite industry as an R&D Engineer and Embedded Software Engineer. During this time, I honed my skills in microcontroller, circuit, and PCB design, as well as embedded coding and optimization, which have been invaluable in my academic pursuits.
@@ -17,10 +17,12 @@ I completed his Master's degree in Electronics Engineering from [Istanbul Techni
 
 Currently, My focus is to bridge the gap between AI and materials science by proposing AI-based models to accelerate the creation of new microstructures while minimizing time and cost and prediction algorithms that foresees faults by means of cameras and sensors. 
 
-Recent Updates
-======
+***<u>Recent Updates</u>***
+------
 
-  
+
+***<u>Fellowships and Academic Awards</u>***
+------ 
 <!-- A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
