@@ -31,7 +31,7 @@ redirect_from:
 ***<u>Work Experience</u>***
 ------
 
-* ***2022 September – Present: Research Assistan, Northwestern University, IL, USA***
+* ***2022 September – Present: Research Assistant, Northwestern University, IL, USA***
   * Supervisor: Professor Alok Choudhary
 * ***2020 September – 2022 August: Embedded Software Engineer, SVS Satellite Systems Co. Istanbul, Turkey***
   * Focused on Embedded System Design and code implementation for satellite industry needs with several processors and microcontrollers (Imx6 DualLite, Imx6 SoloX, LPC3250, STM32Fx, etc.)
