@@ -8,7 +8,7 @@ redirect_from:
 ---
 <!-- {% include base_path %} -->
 
-***Education***
+***<u>Education</u>***
 ------
 
 *  ***Doctor of Philosophy in Computer Science, Northwestern University, USA, Fall 2022 - Present*** 
@@ -28,7 +28,7 @@ redirect_from:
     * Photography Contest about Winter Theme 1st place in 2015.
     * Volunteer in projects that processes the adaptation of immigrants
 
-***Work Experience***
+***<u>Work Experience</u>***
 ------
 
 * ***2022 September – Present: Research Assistan, Northwestern University, IL, USA***
